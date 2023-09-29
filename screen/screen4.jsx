@@ -38,15 +38,11 @@ export default function App() {
 const styles = StyleSheet.create({
     container: {
         flex: 1,
-        // background: 'transparent',
         backgroundImage: 'linear-gradient(to bottom, #66FFFF, #00CCFF)',
-        // alignItems: 'flex-start',
-        // justifyContent: 'flex-start',
     },
     style1: {
         height: 200,
         background: 'transparent',
-        // backgroundColor: 'red',
         alignItems: 'center',
         justifyContent: 'center',
         marginTop: 50,
@@ -66,11 +62,8 @@ const styles = StyleSheet.create({
     style4: {
         height: 60,
         background: 'transparent',
-        // backgroundImage: 'linear-gradient(to bottom, #66FFFF, #00CCFF)',
-        // backgroundColor: '#BEBEBE',
         alignItems: 'center',
         justifyContent: 'center',
-        // alignContent: 'center',
         flexDirection: 'row',
         marginTop: 35,
         marginLeft: 20,
@@ -93,7 +86,7 @@ const styles = StyleSheet.create({
 
     },
     button: {
-        backgroundColor: '#FFCC00', // Màu nền của nút
+        backgroundColor: '#FFCC00',
         width: 350,
         height: 50,
         alignItems: 'center',

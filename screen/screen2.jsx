@@ -26,15 +26,12 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    // background: 'transparent',
     backgroundImage: 'linear-gradient(to bottom, #66FFFF, #00CCFF)',
     alignItems: 'center',
-    // justifyContent: 'flex-start',
   },
   style1: {
     height: 280,
     background: 'transparent',
-    // backgroundColor: 'red',
     alignItems: 'center',
     justifyContent: 'flex-end',
   },
@@ -54,7 +51,6 @@ const styles = StyleSheet.create({
   style4: {
     height: 100,
     background: 'transparent',
-    // backgroundImage: 'linear-gradient(to bottom, #66FFFF, #00CCFF)',
     alignItems: 'center',
     justifyContent: 'center',
     flexWrap: 'wrap',

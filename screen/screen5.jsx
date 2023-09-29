@@ -30,23 +30,15 @@ const styles = StyleSheet.create({
         flex: 1,
         backgroundColor: 'rgba(49, 170, 82, 0.19)',
         alignItems: 'center',
-        // justifyContent: 'center',
     },
     view1: {
-        // flex: 1,
-        // height: 300,
-        // backgroundColor: 'white',
         alignItems: 'center',
         justifyContent: 'center',
     },
     view2: {
-        // flex: 1,
         alignItems: 'center',
-        // justifyContent: 'center',
     },
     view3: {
-        // flex: 1,
-        // alignItems: 'center',
         justifyContent: 'center',
         flexDirection: 'row',
         marginTop: 20,
